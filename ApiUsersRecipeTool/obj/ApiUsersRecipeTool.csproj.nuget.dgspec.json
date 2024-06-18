@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\airam_fckw728\\Desktop\\Colegio\\RecipeToolApi\\ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj": {}
+    "C:\\Users\\airam_fckw728\\Desktop\\Colegio\\ApiRecipeTool\\RecipeToolApi\\ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\airam_fckw728\\Desktop\\Colegio\\RecipeToolApi\\ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj": {
+    "C:\\Users\\airam_fckw728\\Desktop\\Colegio\\ApiRecipeTool\\RecipeToolApi\\ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\airam_fckw728\\Desktop\\Colegio\\RecipeToolApi\\ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj",
+        "projectUniqueName": "C:\\Users\\airam_fckw728\\Desktop\\Colegio\\ApiRecipeTool\\RecipeToolApi\\ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj",
         "projectName": "ApiUsersRecipeTool",
-        "projectPath": "C:\\Users\\airam_fckw728\\Desktop\\Colegio\\RecipeToolApi\\ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj",
+        "projectPath": "C:\\Users\\airam_fckw728\\Desktop\\Colegio\\ApiRecipeTool\\RecipeToolApi\\ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj",
         "packagesPath": "C:\\Users\\airam_fckw728\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\airam_fckw728\\Desktop\\Colegio\\RecipeToolApi\\ApiUsersRecipeTool\\obj\\",
+        "outputPath": "C:\\Users\\airam_fckw728\\Desktop\\Colegio\\ApiRecipeTool\\RecipeToolApi\\ApiUsersRecipeTool\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

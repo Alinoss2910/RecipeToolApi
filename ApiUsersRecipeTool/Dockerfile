@@ -9,7 +9,7 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["ApiUsersRecipeTool/ApiUsersRecipeTool.csproj", "ApiUsersRecipeTool/"]
+COPY ["ApiUsersRecipeTool.csproj", "ApiUsersRecipeTool/"]
 RUN dotnet restore "./ApiUsersRecipeTool/./ApiUsersRecipeTool.csproj"
 COPY . .
 WORKDIR "/src/ApiUsersRecipeTool"
