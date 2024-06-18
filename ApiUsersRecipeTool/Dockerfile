@@ -3,12 +3,12 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Restaurar paquetes
-COPY ["ApiUsersRecipeTool/ApiUsersRecipeTool.csproj", "ApiUsersRecipeTool/"]
-RUN dotnet restore "ApiUsersRecipeTool/ApiUsersRecipeTool.csproj"
+COPY ["ApiUsersRecipeTool.csproj", "ApiUsersRecipeTool/"]
+RUN dotnet restore "ApiUsersRecipeTool.csproj"
 
 # Copiar y construir la aplicación
 COPY . .
-WORKDIR "/src/ApiUsersRecipeTool"
+WORKDIR "/src"
 RUN dotnet build "ApiUsersRecipeTool.csproj" -c Release -o /app/build
 
 # Etapa de publicación
