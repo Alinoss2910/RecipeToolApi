@@ -1,0 +1,6 @@
+@ApiUsersRecipeTool_HostAddress = http://localhost:5117
+
+GET {{ApiUsersRecipeTool_HostAddress}}/User/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xN9bMaQ952bXT8pQW1PfG2f8jj5SgdztN7GT55zW6rc=",
+  "Source": "ApiUsersRecipeTool",
+  "BasePath": "_content/ApiUsersRecipeTool",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

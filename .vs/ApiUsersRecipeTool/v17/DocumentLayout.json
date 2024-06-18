@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\airam.linares\\Desktop\\ProyectoFinal\\ProyectoFinalDAM\\ApiUsersRecipeTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6208BA6-2BA8-4D1E-8426-A339E2DB38F5}|ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj|c:\\users\\airam.linares\\desktop\\proyectofinal\\proyectofinaldam\\apiusersrecipetool\\apiusersrecipetool\\data\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6208BA6-2BA8-4D1E-8426-A339E2DB38F5}|ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj|solutionrelative:apiusersrecipetool\\data\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6208BA6-2BA8-4D1E-8426-A339E2DB38F5}|ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj|C:\\Users\\airam.linares\\Desktop\\ProyectoFinal\\ProyectoFinalDAM\\ApiUsersRecipeTool\\apiusersrecipetool\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6208BA6-2BA8-4D1E-8426-A339E2DB38F5}|ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj|solutionrelative:apiusersrecipetool\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6208BA6-2BA8-4D1E-8426-A339E2DB38F5}|ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj|C:\\Users\\airam.linares\\Desktop\\ProyectoFinal\\ProyectoFinalDAM\\ApiUsersRecipeTool\\apiusersrecipetool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6208BA6-2BA8-4D1E-8426-A339E2DB38F5}|ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj|solutionrelative:apiusersrecipetool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6208BA6-2BA8-4D1E-8426-A339E2DB38F5}|ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj|C:\\Users\\airam.linares\\Desktop\\ProyectoFinal\\ProyectoFinalDAM\\ApiUsersRecipeTool\\apiusersrecipetool\\data\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6208BA6-2BA8-4D1E-8426-A339E2DB38F5}|ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj|solutionrelative:apiusersrecipetool\\data\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6208BA6-2BA8-4D1E-8426-A339E2DB38F5}|ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj|C:\\Users\\airam.linares\\Desktop\\ProyectoFinal\\ProyectoFinalDAM\\ApiUsersRecipeTool\\apiusersrecipetool\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6208BA6-2BA8-4D1E-8426-A339E2DB38F5}|ApiUsersRecipeTool\\ApiUsersRecipeTool.csproj|solutionrelative:apiusersrecipetool\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\airam.linares\\Desktop\\ProyectoFinal\\ProyectoFinalDAM\\ApiUsersRecipeTool\\ApiUsersRecipeTool\\Data\\UserService.cs",
+              "RelativeDocumentMoniker": "ApiUsersRecipeTool\\Data\\UserService.cs",
+              "ToolTip": "C:\\Users\\airam.linares\\Desktop\\ProyectoFinal\\ProyectoFinalDAM\\ApiUsersRecipeTool\\ApiUsersRecipeTool\\Data\\UserService.cs",
+              "RelativeToolTip": "ApiUsersRecipeTool\\Data\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:46:50.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\airam.linares\\Desktop\\ProyectoFinal\\ProyectoFinalDAM\\ApiUsersRecipeTool\\ApiUsersRecipeTool\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "ApiUsersRecipeTool\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\airam.linares\\Desktop\\ProyectoFinal\\ProyectoFinalDAM\\ApiUsersRecipeTool\\ApiUsersRecipeTool\\Data\\DataContext.cs",
+              "RelativeToolTip": "ApiUsersRecipeTool\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:46:47.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\airam.linares\\Desktop\\ProyectoFinal\\ProyectoFinalDAM\\ApiUsersRecipeTool\\ApiUsersRecipeTool\\Program.cs",
+              "RelativeDocumentMoniker": "ApiUsersRecipeTool\\Program.cs",
+              "ToolTip": "C:\\Users\\airam.linares\\Desktop\\ProyectoFinal\\ProyectoFinalDAM\\ApiUsersRecipeTool\\ApiUsersRecipeTool\\Program.cs",
+              "RelativeToolTip": "ApiUsersRecipeTool\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:44:46.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\airam.linares\\Desktop\\ProyectoFinal\\ProyectoFinalDAM\\ApiUsersRecipeTool\\ApiUsersRecipeTool\\Data\\TokenService.cs",
+              "RelativeDocumentMoniker": "ApiUsersRecipeTool\\Data\\TokenService.cs",
+              "ToolTip": "C:\\Users\\airam.linares\\Desktop\\ProyectoFinal\\ProyectoFinalDAM\\ApiUsersRecipeTool\\ApiUsersRecipeTool\\Data\\TokenService.cs",
+              "RelativeToolTip": "ApiUsersRecipeTool\\Data\\TokenService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:19:27.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\airam.linares\\Desktop\\ProyectoFinal\\ProyectoFinalDAM\\ApiUsersRecipeTool\\ApiUsersRecipeTool\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ApiUsersRecipeTool\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\airam.linares\\Desktop\\ProyectoFinal\\ProyectoFinalDAM\\ApiUsersRecipeTool\\ApiUsersRecipeTool\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ApiUsersRecipeTool\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:13:12.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
