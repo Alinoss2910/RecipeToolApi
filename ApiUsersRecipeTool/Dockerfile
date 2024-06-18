@@ -4,11 +4,11 @@ WORKDIR /src
 
 # Restaurar paquetes
 COPY ["ApiUsersRecipeTool.csproj", "ApiUsersRecipeTool/"]
-RUN dotnet restore "ApiUsersRecipeTool.csproj"
+RUN dotnet restore "ApiUsersRecipeTool/ApiUsersRecipeTool.csproj"
 
 # Copiar y construir la aplicación
 COPY . .
-WORKDIR "/src"
+WORKDIR "/src/ApiUsersRecipeTool"
 RUN dotnet build "ApiUsersRecipeTool.csproj" -c Release -o /app/build
 
 # Etapa de publicación
