@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVt+fCQftAkKpPN8cG0NoRQAAAAACAAAAAAAQZgAAAAEAACAAAADXHg+cBDZ+Q5hwiDyVbWISBpKtTr+P1UCJt45sjxt+WgAAAAAOgAAAAAIAACAAAAB26W4bHFlDc6DPvCDelIW3RYws5U77xNtIMFsOMVIcRIAAAAC76z+bEvFaqpo3ZyRkgHeznRSIIcDjMYWx2IRAYaol9OyVkvHMmQmc2N6y5/CGaFv0rQQY8DNCED1SV6t6cN9f1nRKfRnr+sMP5oBdUn8uI0hgSD2OE7IH063D4uB34iIROLYu34vYQlqy+YpGpi4l1ead5vOggc4W6xn4DqWN0UAAAAB7cGEFxCa/xC2cvVeRn9n4MMoqwVn/opFXceomFujFcErbZHe7JTJDyFpjfNTUUuYz/7UJvl5OkeLROcK+fae4</EncryptedPassword>
+    <History>False|2024-06-19T02:47:51.0751728Z;False|2024-06-19T04:45:08.1123491+02:00;False|2024-06-19T04:42:24.5203557+02:00;False|2024-06-19T04:41:42.5172036+02:00;False|2024-06-19T04:39:23.4653349+02:00;False|2024-06-19T04:32:28.7859110+02:00;False|2024-06-19T04:29:54.5453566+02:00;False|2024-06-19T03:47:01.7052696+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>server=recipetooldb.mysql.database.azure.com%3bport=3306%3bdatabase=recipe_tool%3buser=airam%3bpassword=123456Aa.</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

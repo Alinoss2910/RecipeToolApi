@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiUsersRecipeTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edf2938e0cd60812ad2fed54eca58c0271329e4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33546944f71863ae7052637f7f0dcf2cecec00ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiUsersRecipeTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiUsersRecipeTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
